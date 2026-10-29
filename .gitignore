@@ -4,6 +4,7 @@
 # Virtual Environment
 venv/
 env/
+.venv/
 
 # Python Cache
 __pycache__/
@@ -12,3 +13,4 @@ __pycache__/
 # IDE & OS Files
 .vscode/
 .DS_Store
+.streamlit/
